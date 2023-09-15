@@ -1,4 +1,4 @@
-# ![Endotypist<sup>XMBD</sup>](./logo.png)
+# ![Endotypist<sup>XMBD</sup>](./logo.png =100x20)
  Endotypist<sup>XMBD</sup> introduces the concept of active noise control, which has achieved remarkable success in the field of acoustics, to the domain of single-cell omics. It employs an adaptive filtering algorithm, implemented through deep random-effects modelling, to isolate signals originating from various sources.
 
 The analogy between the adaptive noise cancelling model in acoustics and Endotypist<sup>XMBD</sup>:
