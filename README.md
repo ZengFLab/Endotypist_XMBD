@@ -18,7 +18,7 @@ Feng Zeng, Xuwen Kong, Hengxiao Ni, Fan Yang, Ting Chen, Jiahuai Han. Advancing 
 ## Tutorial
 
 ### Example: Negative control example
-For more information, please refer to the [NIPS2021](https://github.com/ZengFLab/Endotypist-XMBD/blob/main/ifnb.ipynb) example.
+For more information, please refer to the [NIPS2021](./tutorial/nips2021_bmmc_donor1_shuffle_tutorial.ipynb) example.
 
 
 ## Usage
