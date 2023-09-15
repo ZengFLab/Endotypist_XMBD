@@ -17,7 +17,7 @@ Feng Zeng, Xuwen Kong, Hengxiao Ni, Fan Yang, Ting Chen, Jiahuai Han. Advancing 
 
 ## Tutorial
 
-### Example: Negative control example
+### Example 1: Negative control example
 For more information, please refer to the [NIPS2021](./tutorial/nips2021_bmmc_donor1_shuffle_tutorial.ipynb) example.
 
 
