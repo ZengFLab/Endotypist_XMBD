@@ -21,7 +21,7 @@ Feng Zeng, Xuwen Kong, Hengxiao Ni, Fan Yang, Ting Chen, Jiahuai Han. Advancing 
 For more information, please refer to the [NeurIPS2021](./tutorial/nips2021_bmmc_donor1_shuffle_tutorial.ipynb) example.
 
 ### Example 2: Infection endotype example
-For more information, please refer to the [Endotype](./tutorial/Infection_endotype_tutorial.ipynbb) example.
+For more information, please refer to the [Endotype](./tutorial/Infection_endotype_tutorial.ipynb) example.
 
 
 ## Usage
