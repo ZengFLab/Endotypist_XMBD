@@ -13,15 +13,11 @@ impact_score <- function(x,b,thresh=1e-12) {
   loglik.bg <- sum(log(loglik.bg))
   
 
-  # loglik.fg <- mn$loglik
   loglik.fg <- fg$lambda[1] * dnorm(x, mean=fg$mu[1], sd=fg$sigma[1]) +
     fg$lambda[2] * dnorm(x, mean=fg$mu[2], sd=fg$sigma[1])
   loglik.fg[loglik.fg<thresh] <- thresh
 
   
-  #diff_bg_fg <- (loglik.fg - loglik.bg) / length(x)
-  # diff_bg_fg <- (loglik.fg - loglik.bg)
-  #diff_bg_fg <- exp(diff_bg_fg) ^ (1/length(x))
   diff_bg_fg <- loglik.fg - loglik.bg
   diff_bg_fg <- mean(1/diff_bg_fg)
   diff_bg_fg <- 1/diff_bg_fg
