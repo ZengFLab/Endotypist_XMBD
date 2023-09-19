@@ -15,6 +15,8 @@ Feng Zeng, Xuwen Kong, Hengxiao Ni, Fan Yang, Ting Chen, Jiahuai Han. Advancing 
     - `pip install datatable`
 
 
+**NOTICE**: Endotypist<sup>XMBD</sup> was developed using Pyro with a version prior to 2.0.
+
 ## Tutorials
 
 ### Example 1: Negative control example
