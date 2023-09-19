@@ -20,7 +20,10 @@ Feng Zeng, Xuwen Kong, Hengxiao Ni, Fan Yang, Ting Chen, Jiahuai Han. Advancing 
 ### Example 1: Negative control example
 For more information, please refer to the [NeurIPS2021](./tutorial/nips2021_bmmc_donor1_shuffle_tutorial.ipynb) example.
 
-### Example 2: Infection endotype example
+### Example 2: Simulated case-control example
+For more information, please refer to the [Case-Control simulation](./tutorial/simulated_case_control_tutorial.ipynb) example.
+
+### Example 3: Infection endotype example
 For more information, please refer to the [Endotype](./tutorial/Infection_endotype_tutorial.ipynb) example.
 
 
