@@ -57,7 +57,7 @@ python Endotypist.py --sup-data-file <data_file>
 
 ## Running mode
 
-Endotypist<sup>XMBD</sup> offers two distinct operational modes. The first is the unsuprevised mode, which does not require cell type annotations. In this mode, Endotypist<sup>XMBD</sup> autonomously identifies putative cell states using the residual space. The second is the supervised mode, allowing users to provide cell type annotations to Endotypist<sup>XMBD</sup> through the parameter `--sup-label-file`.
+Endotypist<sup>XMBD</sup> offers two distinct operational modes. The first is the **unsuprevised** mode, which does not require cell type annotations. In this mode, Endotypist<sup>XMBD</sup> autonomously identifies putative cell states using the residual space. The second is the **supervised** mode, allowing users to provide cell type annotations to Endotypist<sup>XMBD</sup> through the parameter `--sup-label-file`.
 
 Users can specify the type of phenotype variable by setting `--label-type`, `--condition-type`, `--condition2-type`.
 
