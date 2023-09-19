@@ -26,7 +26,7 @@ For more information, please refer to the [NeurIPS2021](./tutorial/nips2021_bmmc
 For more information, please refer to the [Case-Control simulation](./tutorial/simulated_case_control_tutorial.ipynb) example.
 
 ### Example 3: Infection endotype example
-For more information, please refer to the [Endotype](./tutorial/Infection_endotype_tutorial.ipynb) example.
+For more information, please refer to the [Infection endotype](./tutorial/Infection_endotype_tutorial.ipynb) example.
 
 
 ## Usage
